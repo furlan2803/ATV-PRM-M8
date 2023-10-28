@@ -1,5 +1,7 @@
 # Desenho de Arquitetura de Solução
 
+Esta arquitetura foi construida através de uma colaboração, contando com a contribuição dos membros do Time 2 e 4. Além disso, a orientação dos professores, José Romualdo e Afonso Brandão.
+
 ## 1. Requisitos do pipeline de dados
 
 Um pipeline de dados é um conjunto de processos e ferramentas que permitem a coleta, processamento, armazenamento e análise de grandes volumes de dados.Apresenta-se abaixo os requisitos estabelecidos para este projeto: 
